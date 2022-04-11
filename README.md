@@ -10,7 +10,7 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/ca/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/ca/master/README.md), Δημιουργία ομάδας και [βιογραφικό Α](https://courses-ionio.github.io/help/cv/) | αποστολή του βιογραφικού [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/ca/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης | |
+| 1 | [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/ca/master/README.md), Δημιουργία ομάδας και [βιογραφικό Α](https://courses-ionio.github.io/help/cv/) | [link συζήτησης](https://github.com/courses-ionio/ca/discussions/40) | |
 | 2 | Άσκηση γραμμής εντολών  | | |
 | 3 | Αίτημα ενσωμάτωσης | | |
 | 4 | Συμμετοχικό περιεχόμενο A | | |
